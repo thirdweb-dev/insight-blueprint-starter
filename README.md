@@ -221,7 +221,7 @@ class MyTransformation implements Transformation<SourceData, ResultData> {
 For support and questions:
 - [thirdweb Documentation](https://portal.thirdweb.com/)
 - [thirdweb Discord](https://discord.gg/thirdweb)
-- [GitHub Issues](https://github.com/thirdweb-example/insight-blueprint-starter/issues)
+- [GitHub Issues](https://github.com/thirdweb-dev/insight-blueprint-starter/issues)
 
 ## License
 
